@@ -2,7 +2,7 @@
 #include"binarysort.h"
 
 
-	void Binarysort::sort()
+	void Binarysort::sort(AssDesc8 *a)
 	{
-		std::cout << "Sorted through binary sort1 " << std::endl;
+		std::cout << "Sorted through binary sort2 " << std::endl;
 	}

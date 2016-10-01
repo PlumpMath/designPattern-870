@@ -3,6 +3,6 @@
 class Mergesort : public AbstractSort1
 {
 public:
-	void sort();
+	void sort(AssDesc8 *a);
 
 };
