@@ -1,0 +1,21 @@
+﻿Build started 07-11-2016 13:25:28.
+     1>Project "c:\Users\ajha\documents\visual studio 2015\Projects\factory\sol1\sol1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 15.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt Driver.cpp
+         Driver.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 15.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ajha\documents\visual studio 2015\Projects\factory\x64\Release\sol1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\ajha\documents\visual studio 2015\Projects\factory\x64\Release\sol1.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ajha\documents\visual studio 2015\Projects\factory\x64\Release\sol1.lib" /MACHINE:X64 x64\Release\Driver.obj
+         x64\Release\Icache.obj
+         x64\Release\Jcache.obj
+         x64\Release\TriCache.obj
+         Generating code
+         2 of 236 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+           1 functions were new in current compilation
+           1 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         sol1.vcxproj -> c:\users\ajha\documents\visual studio 2015\Projects\factory\x64\Release\sol1.exe
+     1>Done Building Project "c:\Users\ajha\documents\visual studio 2015\Projects\factory\sol1\sol1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
